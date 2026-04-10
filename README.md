@@ -9,13 +9,13 @@ A professional, privacy-focused AI chat interface built with React and TypeScrip
 
 ## Features
 
-- 🔒 **Privacy-first** — API keys stored only in your browser's localStorage
-- 🤖 **Multi-provider support** — Groq, Google Gemini, and OpenAI
-- 💬 **Chat session management** — Create, switch, and delete conversations
-- 🌗 **Dark / Light mode** — Toggle with automatic persistence
-- 📋 **Copy to clipboard** — One-click copy on any message
-- ⚡ **Streaming-ready UI** — Typing indicator and smooth animations
-- 📱 **Fully responsive** — Works on desktop, tablet, and mobile
+- **Privacy-first** — API keys stored only in your browser's localStorage
+- **Multi-provider support** — Groq, Google Gemini, and OpenAI
+- **Chat session management** — Create, switch, and delete conversations
+- **Dark / Light mode** — Toggle with automatic persistence
+- **Copy to clipboard** — One-click copy on any message
+- **Streaming-ready UI** — Typing indicator and smooth animations
+- **Fully responsive** — Works on desktop, tablet, and mobile
 
 ---
 
@@ -121,14 +121,3 @@ src/
 ├── index.css              # Tailwind config & design tokens
 └── main.tsx               # App entry point
 ```
-
----
-
-## License
-
-This project is open source and available for personal and educational use.
-
-README updated with full setup instructions, project structure, and your name.
-
-Verify README instructions
-Add MIT License
